@@ -1,7 +1,5 @@
 /*
 Author: Samuel Kheysin
-Date: 6/28/21
-Description: Create a calender application that will hold appointments and errands
 */
 #include<iostream>
 #include <ctime>
